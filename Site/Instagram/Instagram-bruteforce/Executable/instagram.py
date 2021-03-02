@@ -142,7 +142,7 @@ if __name__ == '__main__':
     try:
         Engine(username, modes[mode], passlist).start()
     except:
-        pass 
+        pass deneme 
     finally:
         display.wait()
         exit()
